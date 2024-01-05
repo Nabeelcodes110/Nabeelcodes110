@@ -8,7 +8,7 @@
 
 ## GitHub Stats
 
-//![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeelcodes110&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabeelcodes110&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabeelcodes110&layout=compact&theme=radical)
 
