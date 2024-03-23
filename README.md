@@ -4,7 +4,8 @@
 
 - 💼 fresher
 - 🎓 B.E - I.T (9.63/10)
-- 💡 I enjoy exploring and working on Web Development (MERN) and DSA
+- 💡 I enjoy exploring and working on Web Development and DSA
+- Currently I am learning NestJs
 
 ## GitHub Stats
 
